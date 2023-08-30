@@ -10,5 +10,8 @@ we use tx to fit txData in main.py and then obtain ILC for linearizing.
 the folder:linearized_data_with_proposed_model saves the linearized PA's outputs based on the proposed model, and they are also the data of the resubmitted paper.
 
 3.
+If some open source libraries that need to be imported are missing, they can be downloaded through:pip install
+
 written by Ke Tang
+tangke@bupt.edu.cn
 
